@@ -13,7 +13,7 @@ O código utiliza a regressão logística, um modelo de aprendizado supervisiona
 ## Como rodar o código
 
 1. Baixe os dados do Titanic [aqui no Kaggle](https://www.kaggle.com/c/titanic/data).
-2. Coloque o arquivo `train.csv` e `test.csv` na mesma pasta do código.
+2. Coloque os arquivos `train.csv` e `test.csv` na mesma pasta.
 3. Importe os arquivos no código.
 4. Execute o script `titanic.py` para treinar o modelo e gerar as previsões.
 
